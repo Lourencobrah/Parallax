@@ -1,2 +1,2 @@
-# 4° Projeto de Desenvolvimento Web:
+# Projeto de Desenvolvimento Web Parallax:
 # https://lourencobrah.github.io/Parallax/
